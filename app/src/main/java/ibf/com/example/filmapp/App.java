@@ -6,6 +6,7 @@ import ibf.com.example.filmapp.data.remote.FilmApi;
 import ibf.com.example.filmapp.data.remote.RetrofitClient;
 
 public class App extends Application {
+
     private RetrofitClient retrofitClient;
     public static FilmApi api;
 
